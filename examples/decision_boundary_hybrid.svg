@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f7f7f7"/>
+  <text x="20" y="30" font-size="16" font-family="Arial">Decision boundary (placeholder)</text>
+  <rect x="50" y="60" width="300" height="200" fill="url(#grad)" stroke="#333" stroke-width="2"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fdd"/>
+      <stop offset="100%" style="stop-color:#ddf"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="150" r="8" fill="#e41a1c" stroke="#000"/>
+  <circle cx="160" cy="180" r="8" fill="#e41a1c" stroke="#000"/>
+  <circle cx="200" cy="120" r="8" fill="#377eb8" stroke="#000"/>
+  <circle cx="240" cy="140" r="8" fill="#377eb8" stroke="#000"/>
+</svg>
