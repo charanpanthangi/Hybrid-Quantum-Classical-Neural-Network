@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fefefe" stroke="#ccc"/>
+  <text x="20" y="30" font-size="16" font-family="Arial">Latent space (placeholder)</text>
+  <circle cx="100" cy="120" r="7" fill="#4daf4a" opacity="0.8"/>
+  <circle cx="140" cy="160" r="7" fill="#4daf4a" opacity="0.8"/>
+  <circle cx="200" cy="140" r="7" fill="#984ea3" opacity="0.8"/>
+  <circle cx="250" cy="180" r="7" fill="#984ea3" opacity="0.8"/>
+  <circle cx="300" cy="150" r="7" fill="#377eb8" opacity="0.8"/>
+</svg>

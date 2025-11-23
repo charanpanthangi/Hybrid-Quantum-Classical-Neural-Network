@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#fff" stroke="#ccc"/>
+  <text x="20" y="30" font-size="16" font-family="Arial">Training loss (placeholder)</text>
+  <polyline fill="none" stroke="#377eb8" stroke-width="3" points="50,220 120,180 190,150 260,130 330,110"/>
+  <polyline fill="none" stroke="#e41a1c" stroke-width="3" points="50,230 120,200 190,170 260,150 330,140"/>
+  <text x="60" y="245" font-size="12" font-family="Arial" fill="#377eb8">Train</text>
+  <text x="60" y="260" font-size="12" font-family="Arial" fill="#e41a1c">Test</text>
+</svg>
